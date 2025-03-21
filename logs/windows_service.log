@@ -1,0 +1,4 @@
+2025-03-21 13:40:07,125 - INFO - Komut satýrý komutu iþleniyor: windows_service.py stop
+2025-03-21 13:40:10,820 - INFO - Komut satýrý komutu iþleniyor: windows_service.py remove
+2025-03-21 13:40:14,245 - INFO - Komut satýrý komutu iþleniyor: windows_service.py install
+2025-03-21 13:40:17,589 - INFO - Komut satýrý komutu iþleniyor: windows_service.py start
